@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_forms/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react_forms/static/js/main.99fa71d1.chunk.js",
+    "main.js.map": "/react_forms/static/js/main.99fa71d1.chunk.js.map",
+    "runtime-main.js": "/react_forms/static/js/runtime-main.bf919b7f.js",
+    "runtime-main.js.map": "/react_forms/static/js/runtime-main.bf919b7f.js.map",
+    "static/js/2.bfa2fa27.chunk.js": "/react_forms/static/js/2.bfa2fa27.chunk.js",
+    "static/js/2.bfa2fa27.chunk.js.map": "/react_forms/static/js/2.bfa2fa27.chunk.js.map",
+    "static/js/3.909cfa19.chunk.js": "/react_forms/static/js/3.909cfa19.chunk.js",
+    "static/js/3.909cfa19.chunk.js.map": "/react_forms/static/js/3.909cfa19.chunk.js.map",
+    "index.html": "/react_forms/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react_forms/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bfa2fa27.chunk.js.LICENSE.txt": "/react_forms/static/js/2.bfa2fa27.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_forms/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf919b7f.js",
+    "static/js/2.bfa2fa27.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.99fa71d1.chunk.js"
+  ]
+}
